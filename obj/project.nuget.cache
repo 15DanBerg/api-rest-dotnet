@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n5JVBUCDlLU=",
+  "success": true,
+  "projectFilePath": "/home/berg/Documentos/apiRestDotNet/api-rest-dotnet/api-rest-dotnet.csproj",
+  "expectedPackageFiles": [
+    "/home/berg/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "/home/berg/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
