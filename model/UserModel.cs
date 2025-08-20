@@ -1,4 +1,5 @@
-class User
+namespace model;
+class UserModel
 {
     private int id;
     private String name;
@@ -6,14 +7,17 @@ class User
 
     public int Id
     {
-        get { return id; } set { id = value; }
-     }
+        get { return id; }
+        set { id = value; }
+    }
     public String Name
     {
-        get { return name; } set { name = value; }
+        get { return name; }
+        set { name = value; }
     }
     public String Note
     {
-        get { return note; } set { name = value; }
+        get { return note; }
+        set { note = value; }
     }
 }
