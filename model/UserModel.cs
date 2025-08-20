@@ -1,6 +1,12 @@
 namespace model;
 class UserModel
 {
+    public UserModel(int id, String name, String note)
+    {
+        this.id = id;
+        this.name = name;
+        this.note = note;
+    }
     private int id;
     private String name;
     private String note;
