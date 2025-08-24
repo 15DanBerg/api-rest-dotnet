@@ -1,2 +1,2 @@
 # api-rest-dotnet
-API REST desenvolvida em .NET para estudos e prática. O projeto explora criação de endpoints, boas práticas de arquitetura, integração com Entity Framework e testes, servindo como base de aprendizado para futuros projetos no ecossistema .NET.
+API REST desenvolvida em .NET para estudos e prática. O projeto explora criação de endpoints, boas práticas de arquitetura, integração com Entity Framework e testes, servindo como base de aprendizado para futuros projetos no ecossistema .NET. 
