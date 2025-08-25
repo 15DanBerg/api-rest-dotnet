@@ -28,3 +28,8 @@ Servindo como base de aprendizado para futuros projetos no ecossistema .NET.
 ```bash
 git clone https://github.com/seu-usuario/api-rest-dotnet.git
 cd api-rest-dotnet
+```
+
+### Execute o programa em ambiente de desenvolvimento para acessar o swagger
+```bash
+ DOTNET_ENVIRONMENT=Development dotnet run
